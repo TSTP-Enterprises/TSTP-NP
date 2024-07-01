@@ -1,0 +1,6 @@
+*.bat
+*.spec
+*.pkg
+backup/
+build/
+dist/
